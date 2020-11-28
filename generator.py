@@ -2,7 +2,7 @@ version = "1.0"
 
 max_num = 100  # change this number to change the max number (a friendly note: DONT GO HIGHER THAN 500 the generator
 # can handle it but you will need very powerful hardware to open the calculator file even with notepad
-# and 500 is 82.1MB already and 1000 is 327.57MB and 2000 is 1.35GB and you will need 8gb of ram to open 500)
+# and 500 is 82.1MB already and 1000 is 327.57MB and 2000 is 1.35GB and you will need 8gb of ram to open 1000)
 
 # pre work
 file = open('calculator.py', "w+")
